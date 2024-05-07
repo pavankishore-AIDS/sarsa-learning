@@ -53,8 +53,8 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ## SARSA LEARNING FUNCTION
 ```
-Developed By: Senthil Kumar S
-Reg No: 212221230091
+Developed By: Pavan Kishore.M
+Reg No: 212221230076
 ```
 
 ```py
